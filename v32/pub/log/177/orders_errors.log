@@ -1,0 +1,56 @@
+2021/01/20 10:01:30 : orders_errors 1: Traceback (most recent call last):
+  File "/opt/lampp/htdocs/v32/cartmigration/controllers/migration.py", line 1036, in migration
+    convert = fn_convert_export(main, ext)
+  File "/opt/lampp/htdocs/v32/cartmigration/models/cart/custom.py", line 1123, in convert_order_export
+    customer_address = self.addConstructDefault(customer_address)
+AttributeError: 'LeCartCustom' object has no attribute 'addConstructDefault'
+
+2021/01/20 10:01:30 : orders_errors 2: Traceback (most recent call last):
+  File "/opt/lampp/htdocs/v32/cartmigration/controllers/migration.py", line 1036, in migration
+    convert = fn_convert_export(main, ext)
+  File "/opt/lampp/htdocs/v32/cartmigration/models/cart/custom.py", line 1123, in convert_order_export
+    customer_address = self.addConstructDefault(customer_address)
+AttributeError: 'LeCartCustom' object has no attribute 'addConstructDefault'
+
+2021/01/20 10:01:30 : orders_errors 3: Traceback (most recent call last):
+  File "/opt/lampp/htdocs/v32/cartmigration/controllers/migration.py", line 1036, in migration
+    convert = fn_convert_export(main, ext)
+  File "/opt/lampp/htdocs/v32/cartmigration/models/cart/custom.py", line 1123, in convert_order_export
+    customer_address = self.addConstructDefault(customer_address)
+AttributeError: 'LeCartCustom' object has no attribute 'addConstructDefault'
+
+2021/01/20 10:01:30 : orders_errors 4: Traceback (most recent call last):
+  File "/opt/lampp/htdocs/v32/cartmigration/controllers/migration.py", line 1036, in migration
+    convert = fn_convert_export(main, ext)
+  File "/opt/lampp/htdocs/v32/cartmigration/models/cart/custom.py", line 1123, in convert_order_export
+    customer_address = self.addConstructDefault(customer_address)
+AttributeError: 'LeCartCustom' object has no attribute 'addConstructDefault'
+
+2021/01/20 10:01:30 : orders_errors 5: Traceback (most recent call last):
+  File "/opt/lampp/htdocs/v32/cartmigration/controllers/migration.py", line 1036, in migration
+    convert = fn_convert_export(main, ext)
+  File "/opt/lampp/htdocs/v32/cartmigration/models/cart/custom.py", line 1123, in convert_order_export
+    customer_address = self.addConstructDefault(customer_address)
+AttributeError: 'LeCartCustom' object has no attribute 'addConstructDefault'
+
+2021/01/20 10:01:30 : orders_errors 6: Traceback (most recent call last):
+  File "/opt/lampp/htdocs/v32/cartmigration/controllers/migration.py", line 1036, in migration
+    convert = fn_convert_export(main, ext)
+  File "/opt/lampp/htdocs/v32/cartmigration/models/cart/custom.py", line 1123, in convert_order_export
+    customer_address = self.addConstructDefault(customer_address)
+AttributeError: 'LeCartCustom' object has no attribute 'addConstructDefault'
+
+2021/01/20 10:01:30 : orders_errors 7: Traceback (most recent call last):
+  File "/opt/lampp/htdocs/v32/cartmigration/controllers/migration.py", line 1036, in migration
+    convert = fn_convert_export(main, ext)
+  File "/opt/lampp/htdocs/v32/cartmigration/models/cart/custom.py", line 1123, in convert_order_export
+    customer_address = self.addConstructDefault(customer_address)
+AttributeError: 'LeCartCustom' object has no attribute 'addConstructDefault'
+
+2021/01/20 10:01:30 : orders_errors 8: Traceback (most recent call last):
+  File "/opt/lampp/htdocs/v32/cartmigration/controllers/migration.py", line 1036, in migration
+    convert = fn_convert_export(main, ext)
+  File "/opt/lampp/htdocs/v32/cartmigration/models/cart/custom.py", line 1123, in convert_order_export
+    customer_address = self.addConstructDefault(customer_address)
+AttributeError: 'LeCartCustom' object has no attribute 'addConstructDefault'
+

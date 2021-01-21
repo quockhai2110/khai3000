@@ -1,0 +1,10 @@
+2021/01/15 15:44:10 : Traceback (most recent call last):
+  File "/opt/lampp/htdocs/v32/cartmigration/controllers/migration.py", line 665, in storage_data
+    getattr(self.get_source_cart(), 'finish_storage_data')()
+  File "/opt/lampp/htdocs/v32/cartmigration/models/basecart.py", line 3929, in finish_storage_data
+    folder_upload = self.get_folder_upload(self._migration_id)
+  File "/opt/lampp/htdocs/v32/cartmigration/models/basecart.py", line 3941, in get_folder_upload
+    folder_upload = root_path + '/' + DIR_UPLOAD + '/' + get_config_ini('src', 'file', file = 'test.ini')
+TypeError: must be str, not NoneType
+
+2021/01/15 15:45:01 : Error Connecting:HTTPSConnectionPool(host='quockhai21102.myshopify.com', port=443): Max retries exceeded with url: /admin/api/2021-01/products/6169276252349.json (Caused by NewConnectionError('<requests.packages.urllib3.connection.VerifiedHTTPSConnection object at 0x7fcf004e0cf8>: Failed to establish a new connection: [Errno -2] Name or service not known',)) : False

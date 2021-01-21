@@ -1,0 +1,56 @@
+2021/01/20 11:39:34 : orders_errors 1: Traceback (most recent call last):
+  File "/opt/lampp/htdocs/v32/cartmigration/controllers/migration.py", line 1072, in migration
+    import_data = fn_import(convert_data, main, ext)
+  File "/opt/lampp/htdocs/v32/cartmigration/models/cart/shopify.py", line 2945, in order_import
+    if convert['billing_address']['state']['name'] or convert['billing_address']['state']['code']:
+KeyError: 'state'
+
+2021/01/20 11:39:42 : orders_errors 2: Traceback (most recent call last):
+  File "/opt/lampp/htdocs/v32/cartmigration/controllers/migration.py", line 1072, in migration
+    import_data = fn_import(convert_data, main, ext)
+  File "/opt/lampp/htdocs/v32/cartmigration/models/cart/shopify.py", line 2945, in order_import
+    if convert['billing_address']['state']['name'] or convert['billing_address']['state']['code']:
+KeyError: 'state'
+
+2021/01/20 11:39:43 : orders_errors 3: Traceback (most recent call last):
+  File "/opt/lampp/htdocs/v32/cartmigration/controllers/migration.py", line 1072, in migration
+    import_data = fn_import(convert_data, main, ext)
+  File "/opt/lampp/htdocs/v32/cartmigration/models/cart/shopify.py", line 2945, in order_import
+    if convert['billing_address']['state']['name'] or convert['billing_address']['state']['code']:
+KeyError: 'state'
+
+2021/01/20 11:39:44 : orders_errors 4: Traceback (most recent call last):
+  File "/opt/lampp/htdocs/v32/cartmigration/controllers/migration.py", line 1072, in migration
+    import_data = fn_import(convert_data, main, ext)
+  File "/opt/lampp/htdocs/v32/cartmigration/models/cart/shopify.py", line 2945, in order_import
+    if convert['billing_address']['state']['name'] or convert['billing_address']['state']['code']:
+KeyError: 'state'
+
+2021/01/20 11:39:45 : orders_errors 5: Traceback (most recent call last):
+  File "/opt/lampp/htdocs/v32/cartmigration/controllers/migration.py", line 1072, in migration
+    import_data = fn_import(convert_data, main, ext)
+  File "/opt/lampp/htdocs/v32/cartmigration/models/cart/shopify.py", line 2945, in order_import
+    if convert['billing_address']['state']['name'] or convert['billing_address']['state']['code']:
+KeyError: 'state'
+
+2021/01/20 11:39:45 : orders_errors 6: Traceback (most recent call last):
+  File "/opt/lampp/htdocs/v32/cartmigration/controllers/migration.py", line 1072, in migration
+    import_data = fn_import(convert_data, main, ext)
+  File "/opt/lampp/htdocs/v32/cartmigration/models/cart/shopify.py", line 2945, in order_import
+    if convert['billing_address']['state']['name'] or convert['billing_address']['state']['code']:
+KeyError: 'state'
+
+2021/01/20 11:39:46 : orders_errors 7: Traceback (most recent call last):
+  File "/opt/lampp/htdocs/v32/cartmigration/controllers/migration.py", line 1072, in migration
+    import_data = fn_import(convert_data, main, ext)
+  File "/opt/lampp/htdocs/v32/cartmigration/models/cart/shopify.py", line 2945, in order_import
+    if convert['billing_address']['state']['name'] or convert['billing_address']['state']['code']:
+KeyError: 'state'
+
+2021/01/20 11:39:47 : orders_errors 8: Traceback (most recent call last):
+  File "/opt/lampp/htdocs/v32/cartmigration/controllers/migration.py", line 1072, in migration
+    import_data = fn_import(convert_data, main, ext)
+  File "/opt/lampp/htdocs/v32/cartmigration/models/cart/shopify.py", line 2945, in order_import
+    if convert['billing_address']['state']['name'] or convert['billing_address']['state']['code']:
+KeyError: 'state'
+

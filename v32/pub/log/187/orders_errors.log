@@ -1,0 +1,7 @@
+2021/01/20 10:29:48 : orders_errors 1: Traceback (most recent call last):
+  File "/opt/lampp/htdocs/v32/cartmigration/controllers/migration.py", line 1036, in migration
+    convert = fn_convert_export(main, ext)
+  File "/opt/lampp/htdocs/v32/cartmigration/models/cart/custom.py", line 1209, in convert_order_export
+    order_products = get_list_from_list_by_field(orders_ext['data']['orders_products_id'], 'orders_id', order['id'])
+KeyError: 'orders_products_id'
+

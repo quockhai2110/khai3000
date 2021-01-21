@@ -1,0 +1,2 @@
+2021/01/15 10:01:01 : DELETE FROM `shopify_review` WHERE `migration_id` = 2: Table 'cartmigration_ver3_test_2.shopify_review' doesn't exist
+2021/01/15 10:08:42 : DELETE FROM `shopify_review` WHERE `migration_id` = 2: Table 'cartmigration_ver3_test_2.shopify_review' doesn't exist

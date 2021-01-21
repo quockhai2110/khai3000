@@ -1,0 +1,4 @@
+2021/01/15 17:58:21 : SELECT COUNT(1) AS count FROM  categories WHERE id > 0: <span class="message-alert-error">SQLSTATE[42S22]: Column not found: 1054 Unknown column 'id' in 'where clause'</span>
+2021/01/15 17:58:21 : SELECT COUNT(1) AS count FROM  products WHERE id > 0: <span class="message-alert-error">SQLSTATE[42S22]: Column not found: 1054 Unknown column 'id' in 'where clause'</span>
+2021/01/15 17:58:21 : SELECT COUNT(1) AS count FROM  customers WHERE id > 0: <span class="message-alert-error">SQLSTATE[42S22]: Column not found: 1054 Unknown column 'id' in 'where clause'</span>
+2021/01/15 17:58:21 : SELECT COUNT(1) AS count FROM  orders WHERE  id > 0: <span class="message-alert-error">SQLSTATE[42S22]: Column not found: 1054 Unknown column 'id' in 'where clause'</span>

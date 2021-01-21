@@ -1,0 +1,35 @@
+2021/01/18 11:13:58 : categories_errors 2: Traceback (most recent call last):
+  File "/opt/lampp/htdocs/v32/cartmigration/controllers/migration.py", line 1036, in migration
+    convert = fn_convert_export(main, ext)
+  File "/opt/lampp/htdocs/v32/cartmigration/models/cart/custom.py", line 402, in convert_category_export
+    category_data['meta_keyword'] = category['code']
+KeyError: 'code'
+
+2021/01/18 11:13:58 : categories_errors 3: Traceback (most recent call last):
+  File "/opt/lampp/htdocs/v32/cartmigration/controllers/migration.py", line 1036, in migration
+    convert = fn_convert_export(main, ext)
+  File "/opt/lampp/htdocs/v32/cartmigration/models/cart/custom.py", line 402, in convert_category_export
+    category_data['meta_keyword'] = category['code']
+KeyError: 'code'
+
+2021/01/18 11:13:58 : categories_errors 4: Traceback (most recent call last):
+  File "/opt/lampp/htdocs/v32/cartmigration/controllers/migration.py", line 1036, in migration
+    convert = fn_convert_export(main, ext)
+  File "/opt/lampp/htdocs/v32/cartmigration/models/cart/custom.py", line 402, in convert_category_export
+    category_data['meta_keyword'] = category['code']
+KeyError: 'code'
+
+2021/01/18 11:13:58 : categories_errors 5: Traceback (most recent call last):
+  File "/opt/lampp/htdocs/v32/cartmigration/controllers/migration.py", line 1036, in migration
+    convert = fn_convert_export(main, ext)
+  File "/opt/lampp/htdocs/v32/cartmigration/models/cart/custom.py", line 402, in convert_category_export
+    category_data['meta_keyword'] = category['code']
+KeyError: 'code'
+
+2021/01/18 11:13:59 : categories_errors 6: Traceback (most recent call last):
+  File "/opt/lampp/htdocs/v32/cartmigration/controllers/migration.py", line 1036, in migration
+    convert = fn_convert_export(main, ext)
+  File "/opt/lampp/htdocs/v32/cartmigration/models/cart/custom.py", line 402, in convert_category_export
+    category_data['meta_keyword'] = category['code']
+KeyError: 'code'
+

@@ -1,0 +1,156 @@
+2021/01/18 09:00:35 : categories_errors 2: Traceback (most recent call last):
+  File "/opt/lampp/htdocs/v32/cartmigration/controllers/migration.py", line 1036, in migration
+    convert = fn_convert_export(main, ext)
+  File "/opt/lampp/htdocs/v32/cartmigration/models/cart/custom.py", line 387, in convert_category_export
+    img = get_row_from_list_by_field(categories_ext['data']['cate_imgs'],'cat_id', category['id'])
+KeyError: 'cate_imgs'
+
+2021/01/18 09:00:54 : categories_errors 3: Traceback (most recent call last):
+  File "/opt/lampp/htdocs/v32/cartmigration/controllers/migration.py", line 1036, in migration
+    convert = fn_convert_export(main, ext)
+  File "/opt/lampp/htdocs/v32/cartmigration/models/cart/custom.py", line 387, in convert_category_export
+    img = get_row_from_list_by_field(categories_ext['data']['cate_imgs'],'cat_id', category['id'])
+KeyError: 'cate_imgs'
+
+2021/01/18 09:01:05 : categories_errors 4: Traceback (most recent call last):
+  File "/opt/lampp/htdocs/v32/cartmigration/controllers/migration.py", line 1036, in migration
+    convert = fn_convert_export(main, ext)
+  File "/opt/lampp/htdocs/v32/cartmigration/models/cart/custom.py", line 387, in convert_category_export
+    img = get_row_from_list_by_field(categories_ext['data']['cate_imgs'],'cat_id', category['id'])
+KeyError: 'cate_imgs'
+
+2021/01/18 09:01:13 : categories_errors 5: Traceback (most recent call last):
+  File "/opt/lampp/htdocs/v32/cartmigration/controllers/migration.py", line 1036, in migration
+    convert = fn_convert_export(main, ext)
+  File "/opt/lampp/htdocs/v32/cartmigration/models/cart/custom.py", line 387, in convert_category_export
+    img = get_row_from_list_by_field(categories_ext['data']['cate_imgs'],'cat_id', category['id'])
+KeyError: 'cate_imgs'
+
+2021/01/18 09:01:41 : categories_errors 6: Traceback (most recent call last):
+  File "/opt/lampp/htdocs/v32/cartmigration/controllers/migration.py", line 1036, in migration
+    convert = fn_convert_export(main, ext)
+  File "/opt/lampp/htdocs/v32/cartmigration/models/cart/custom.py", line 387, in convert_category_export
+    img = get_row_from_list_by_field(categories_ext['data']['cate_imgs'],'cat_id', category['id'])
+KeyError: 'cate_imgs'
+
+2021/01/18 09:01:42 : categories_errors 7: Traceback (most recent call last):
+  File "/opt/lampp/htdocs/v32/cartmigration/controllers/migration.py", line 1036, in migration
+    convert = fn_convert_export(main, ext)
+  File "/opt/lampp/htdocs/v32/cartmigration/models/cart/custom.py", line 387, in convert_category_export
+    img = get_row_from_list_by_field(categories_ext['data']['cate_imgs'],'cat_id', category['id'])
+KeyError: 'cate_imgs'
+
+2021/01/18 09:01:42 : categories_errors 8: Traceback (most recent call last):
+  File "/opt/lampp/htdocs/v32/cartmigration/controllers/migration.py", line 1036, in migration
+    convert = fn_convert_export(main, ext)
+  File "/opt/lampp/htdocs/v32/cartmigration/models/cart/custom.py", line 381, in convert_category_export
+    parent_data = self.get_category_parent(category['parent_id'])
+  File "/opt/lampp/htdocs/v32/cartmigration/models/cart/custom.py", line 1499, in get_category_parent
+    category_convert = self.convert_category_export(category, categories_ext)
+  File "/opt/lampp/htdocs/v32/cartmigration/models/cart/custom.py", line 387, in convert_category_export
+    img = get_row_from_list_by_field(categories_ext['data']['cate_imgs'],'cat_id', category['id'])
+KeyError: 'cate_imgs'
+
+2021/01/18 09:01:43 : categories_errors 9: Traceback (most recent call last):
+  File "/opt/lampp/htdocs/v32/cartmigration/controllers/migration.py", line 1036, in migration
+    convert = fn_convert_export(main, ext)
+  File "/opt/lampp/htdocs/v32/cartmigration/models/cart/custom.py", line 387, in convert_category_export
+    img = get_row_from_list_by_field(categories_ext['data']['cate_imgs'],'cat_id', category['id'])
+KeyError: 'cate_imgs'
+
+2021/01/18 09:01:43 : categories_errors 10: Traceback (most recent call last):
+  File "/opt/lampp/htdocs/v32/cartmigration/controllers/migration.py", line 1036, in migration
+    convert = fn_convert_export(main, ext)
+  File "/opt/lampp/htdocs/v32/cartmigration/models/cart/custom.py", line 387, in convert_category_export
+    img = get_row_from_list_by_field(categories_ext['data']['cate_imgs'],'cat_id', category['id'])
+KeyError: 'cate_imgs'
+
+2021/01/18 09:01:43 : categories_errors 11: Traceback (most recent call last):
+  File "/opt/lampp/htdocs/v32/cartmigration/controllers/migration.py", line 1036, in migration
+    convert = fn_convert_export(main, ext)
+  File "/opt/lampp/htdocs/v32/cartmigration/models/cart/custom.py", line 387, in convert_category_export
+    img = get_row_from_list_by_field(categories_ext['data']['cate_imgs'],'cat_id', category['id'])
+KeyError: 'cate_imgs'
+
+2021/01/18 09:01:44 : categories_errors 12: Traceback (most recent call last):
+  File "/opt/lampp/htdocs/v32/cartmigration/controllers/migration.py", line 1036, in migration
+    convert = fn_convert_export(main, ext)
+  File "/opt/lampp/htdocs/v32/cartmigration/models/cart/custom.py", line 387, in convert_category_export
+    img = get_row_from_list_by_field(categories_ext['data']['cate_imgs'],'cat_id', category['id'])
+KeyError: 'cate_imgs'
+
+2021/01/18 09:01:44 : categories_errors 13: Traceback (most recent call last):
+  File "/opt/lampp/htdocs/v32/cartmigration/controllers/migration.py", line 1036, in migration
+    convert = fn_convert_export(main, ext)
+  File "/opt/lampp/htdocs/v32/cartmigration/models/cart/custom.py", line 381, in convert_category_export
+    parent_data = self.get_category_parent(category['parent_id'])
+  File "/opt/lampp/htdocs/v32/cartmigration/models/cart/custom.py", line 1499, in get_category_parent
+    category_convert = self.convert_category_export(category, categories_ext)
+  File "/opt/lampp/htdocs/v32/cartmigration/models/cart/custom.py", line 387, in convert_category_export
+    img = get_row_from_list_by_field(categories_ext['data']['cate_imgs'],'cat_id', category['id'])
+KeyError: 'cate_imgs'
+
+2021/01/18 09:01:45 : categories_errors 14: Traceback (most recent call last):
+  File "/opt/lampp/htdocs/v32/cartmigration/controllers/migration.py", line 1036, in migration
+    convert = fn_convert_export(main, ext)
+  File "/opt/lampp/htdocs/v32/cartmigration/models/cart/custom.py", line 381, in convert_category_export
+    parent_data = self.get_category_parent(category['parent_id'])
+  File "/opt/lampp/htdocs/v32/cartmigration/models/cart/custom.py", line 1499, in get_category_parent
+    category_convert = self.convert_category_export(category, categories_ext)
+  File "/opt/lampp/htdocs/v32/cartmigration/models/cart/custom.py", line 387, in convert_category_export
+    img = get_row_from_list_by_field(categories_ext['data']['cate_imgs'],'cat_id', category['id'])
+KeyError: 'cate_imgs'
+
+2021/01/18 09:01:46 : categories_errors 15: Traceback (most recent call last):
+  File "/opt/lampp/htdocs/v32/cartmigration/controllers/migration.py", line 1036, in migration
+    convert = fn_convert_export(main, ext)
+  File "/opt/lampp/htdocs/v32/cartmigration/models/cart/custom.py", line 387, in convert_category_export
+    img = get_row_from_list_by_field(categories_ext['data']['cate_imgs'],'cat_id', category['id'])
+KeyError: 'cate_imgs'
+
+2021/01/18 09:01:46 : categories_errors 16: Traceback (most recent call last):
+  File "/opt/lampp/htdocs/v32/cartmigration/controllers/migration.py", line 1036, in migration
+    convert = fn_convert_export(main, ext)
+  File "/opt/lampp/htdocs/v32/cartmigration/models/cart/custom.py", line 387, in convert_category_export
+    img = get_row_from_list_by_field(categories_ext['data']['cate_imgs'],'cat_id', category['id'])
+KeyError: 'cate_imgs'
+
+2021/01/18 09:01:46 : categories_errors 17: Traceback (most recent call last):
+  File "/opt/lampp/htdocs/v32/cartmigration/controllers/migration.py", line 1036, in migration
+    convert = fn_convert_export(main, ext)
+  File "/opt/lampp/htdocs/v32/cartmigration/models/cart/custom.py", line 381, in convert_category_export
+    parent_data = self.get_category_parent(category['parent_id'])
+  File "/opt/lampp/htdocs/v32/cartmigration/models/cart/custom.py", line 1499, in get_category_parent
+    category_convert = self.convert_category_export(category, categories_ext)
+  File "/opt/lampp/htdocs/v32/cartmigration/models/cart/custom.py", line 387, in convert_category_export
+    img = get_row_from_list_by_field(categories_ext['data']['cate_imgs'],'cat_id', category['id'])
+KeyError: 'cate_imgs'
+
+2021/01/18 09:01:47 : categories_errors 19: Traceback (most recent call last):
+  File "/opt/lampp/htdocs/v32/cartmigration/controllers/migration.py", line 1036, in migration
+    convert = fn_convert_export(main, ext)
+  File "/opt/lampp/htdocs/v32/cartmigration/models/cart/custom.py", line 387, in convert_category_export
+    img = get_row_from_list_by_field(categories_ext['data']['cate_imgs'],'cat_id', category['id'])
+KeyError: 'cate_imgs'
+
+2021/01/18 09:01:47 : categories_errors 20: Traceback (most recent call last):
+  File "/opt/lampp/htdocs/v32/cartmigration/controllers/migration.py", line 1036, in migration
+    convert = fn_convert_export(main, ext)
+  File "/opt/lampp/htdocs/v32/cartmigration/models/cart/custom.py", line 387, in convert_category_export
+    img = get_row_from_list_by_field(categories_ext['data']['cate_imgs'],'cat_id', category['id'])
+KeyError: 'cate_imgs'
+
+2021/01/18 09:01:48 : categories_errors 22: Traceback (most recent call last):
+  File "/opt/lampp/htdocs/v32/cartmigration/controllers/migration.py", line 1036, in migration
+    convert = fn_convert_export(main, ext)
+  File "/opt/lampp/htdocs/v32/cartmigration/models/cart/custom.py", line 387, in convert_category_export
+    img = get_row_from_list_by_field(categories_ext['data']['cate_imgs'],'cat_id', category['id'])
+KeyError: 'cate_imgs'
+
+2021/01/18 09:01:48 : categories_errors 23: Traceback (most recent call last):
+  File "/opt/lampp/htdocs/v32/cartmigration/controllers/migration.py", line 1036, in migration
+    convert = fn_convert_export(main, ext)
+  File "/opt/lampp/htdocs/v32/cartmigration/models/cart/custom.py", line 387, in convert_category_export
+    img = get_row_from_list_by_field(categories_ext['data']['cate_imgs'],'cat_id', category['id'])
+KeyError: 'cate_imgs'
+

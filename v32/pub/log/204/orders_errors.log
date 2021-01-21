@@ -1,0 +1,14 @@
+2021/01/20 11:33:48 : orders_errors 1: Traceback (most recent call last):
+  File "/opt/lampp/htdocs/v32/cartmigration/controllers/migration.py", line 1036, in migration
+    convert = fn_convert_export(main, ext)
+  File "/opt/lampp/htdocs/v32/cartmigration/models/cart/custom.py", line 1207, in convert_order_export
+    payments = get_row_from_list_by_field(order['payment_method'], 'order_id', order['id'])
+KeyError: 'id'
+
+2021/01/20 11:34:03 : orders_errors 2: Traceback (most recent call last):
+  File "/opt/lampp/htdocs/v32/cartmigration/controllers/migration.py", line 1036, in migration
+    convert = fn_convert_export(main, ext)
+  File "/opt/lampp/htdocs/v32/cartmigration/models/cart/custom.py", line 1207, in convert_order_export
+    payments = get_row_from_list_by_field(order['payment_method'], 'order_id', order['id'])
+KeyError: 'id'
+

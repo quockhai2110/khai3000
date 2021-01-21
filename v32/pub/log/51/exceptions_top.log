@@ -1,0 +1,29 @@
+2021/01/16 15:24:05 : Traceback (most recent call last):
+  File "/opt/lampp/htdocs/v32/cartmigration/controllers/migration.py", line 665, in storage_data
+    getattr(self.get_source_cart(), 'finish_storage_data')()
+  File "/opt/lampp/htdocs/v32/cartmigration/models/basecart.py", line 3929, in finish_storage_data
+    folder_upload = self.get_folder_upload(self._migration_id)
+  File "/opt/lampp/htdocs/v32/cartmigration/models/basecart.py", line 3941, in get_folder_upload
+    folder_upload = root_path + '/' + DIR_UPLOAD + '/' + get_config_ini('src', 'file', file = 'test.ini')
+TypeError: must be str, not NoneType
+
+2021/01/16 15:29:37 : import 2 error
+2021/01/16 15:29:47 : import 3 error
+2021/01/16 15:29:48 : import 4 error
+2021/01/16 15:29:49 : import 5 error
+2021/01/16 15:29:49 : import 6 error
+2021/01/16 15:29:50 : import 7 error
+2021/01/16 15:29:51 : import 8 error
+2021/01/16 15:29:52 : import 9 error
+2021/01/16 15:29:54 : import 10 error
+2021/01/16 15:29:55 : import 11 error
+2021/01/16 15:29:56 : import 12 error
+2021/01/16 15:29:56 : import 13 error
+2021/01/16 15:29:57 : import 14 error
+2021/01/16 15:29:58 : import 15 error
+2021/01/16 15:29:59 : import 16 error
+2021/01/16 15:29:59 : import 17 error
+2021/01/16 15:30:00 : import 19 error
+2021/01/16 15:30:02 : import 20 error
+2021/01/16 15:30:03 : import 22 error
+2021/01/16 15:30:05 : import 23 error

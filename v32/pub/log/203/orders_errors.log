@@ -1,0 +1,28 @@
+2021/01/20 11:29:25 : orders_errors 1: Traceback (most recent call last):
+  File "/opt/lampp/htdocs/v32/cartmigration/controllers/migration.py", line 1036, in migration
+    convert = fn_convert_export(main, ext)
+  File "/opt/lampp/htdocs/v32/cartmigration/models/cart/custom.py", line 1207, in convert_order_export
+    payments = get_row_from_list_by_field(orders_ext['data']['orders_payment'], 'order_id', order['id'])
+KeyError: 'orders_payment'
+
+2021/01/20 11:29:45 : orders_errors 2: Traceback (most recent call last):
+  File "/opt/lampp/htdocs/v32/cartmigration/controllers/migration.py", line 1036, in migration
+    convert = fn_convert_export(main, ext)
+  File "/opt/lampp/htdocs/v32/cartmigration/models/cart/custom.py", line 1207, in convert_order_export
+    payments = get_row_from_list_by_field(orders_ext['data']['orders_payment'], 'order_id', order['id'])
+KeyError: 'orders_payment'
+
+2021/01/20 11:30:05 : orders_errors 3: Traceback (most recent call last):
+  File "/opt/lampp/htdocs/v32/cartmigration/controllers/migration.py", line 1036, in migration
+    convert = fn_convert_export(main, ext)
+  File "/opt/lampp/htdocs/v32/cartmigration/models/cart/custom.py", line 1207, in convert_order_export
+    payments = get_row_from_list_by_field(orders_ext['data']['orders_payment'], 'order_id', order['id'])
+KeyError: 'orders_payment'
+
+2021/01/20 11:31:33 : orders_errors 4: Traceback (most recent call last):
+  File "/opt/lampp/htdocs/v32/cartmigration/controllers/migration.py", line 1036, in migration
+    convert = fn_convert_export(main, ext)
+  File "/opt/lampp/htdocs/v32/cartmigration/models/cart/custom.py", line 1207, in convert_order_export
+    payments = get_row_from_list_by_field(orders_ext['data']['orders_payment'], 'order_id', order['id'])
+KeyError: 'orders_payment'
+
