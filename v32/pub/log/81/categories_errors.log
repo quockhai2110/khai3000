@@ -1,7 +1,0 @@
-2021/01/18 10:43:06 : categories_errors 2: Traceback (most recent call last):
-  File "/opt/lampp/htdocs/v32/cartmigration/controllers/migration.py", line 1036, in migration
-    convert = fn_convert_export(main, ext)
-  File "/opt/lampp/htdocs/v32/cartmigration/models/cart/custom.py", line 401, in convert_category_export
-    category_data['meta_title'] = category['page_title']
-KeyError: 'page_title'
-

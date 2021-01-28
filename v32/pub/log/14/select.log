@@ -1,1 +1,0 @@
-2021/01/16 11:47:20 : SELECT * FROM  categories_description WHERE categories_id ('null'): <span class="message-alert-error">SQLSTATE[HY000]: General error: 1558 Column count of mysql.proc is wrong. Expected 21, found 20. Created with MariaDB 100108, now running 100417. Please use mysql_upgrade to fix this error</span>
