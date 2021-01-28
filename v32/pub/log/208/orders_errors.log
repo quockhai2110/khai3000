@@ -1,0 +1,56 @@
+2021/01/27 16:08:24 : orders_errors 1: Traceback (most recent call last):
+  File "/opt/lampp/htdocs/v32/cartmigration/controllers/migration.py", line 1072, in migration
+    import_data = fn_import(convert_data, main, ext)
+  File "/opt/lampp/htdocs/v32/cartmigration/models/cart/woocommerce.py", line 4273, in order_import
+    '_line_total': product['products_price'],
+TypeError: list indices must be integers or slices, not str
+
+2021/01/27 16:08:26 : orders_errors 2: Traceback (most recent call last):
+  File "/opt/lampp/htdocs/v32/cartmigration/controllers/migration.py", line 1072, in migration
+    import_data = fn_import(convert_data, main, ext)
+  File "/opt/lampp/htdocs/v32/cartmigration/models/cart/woocommerce.py", line 4273, in order_import
+    '_line_total': product['products_price'],
+TypeError: list indices must be integers or slices, not str
+
+2021/01/27 16:08:28 : orders_errors 3: Traceback (most recent call last):
+  File "/opt/lampp/htdocs/v32/cartmigration/controllers/migration.py", line 1072, in migration
+    import_data = fn_import(convert_data, main, ext)
+  File "/opt/lampp/htdocs/v32/cartmigration/models/cart/woocommerce.py", line 4273, in order_import
+    '_line_total': product['products_price'],
+TypeError: list indices must be integers or slices, not str
+
+2021/01/27 16:08:30 : orders_errors 4: Traceback (most recent call last):
+  File "/opt/lampp/htdocs/v32/cartmigration/controllers/migration.py", line 1072, in migration
+    import_data = fn_import(convert_data, main, ext)
+  File "/opt/lampp/htdocs/v32/cartmigration/models/cart/woocommerce.py", line 4273, in order_import
+    '_line_total': product['products_price'],
+TypeError: list indices must be integers or slices, not str
+
+2021/01/27 16:08:32 : orders_errors 5: Traceback (most recent call last):
+  File "/opt/lampp/htdocs/v32/cartmigration/controllers/migration.py", line 1072, in migration
+    import_data = fn_import(convert_data, main, ext)
+  File "/opt/lampp/htdocs/v32/cartmigration/models/cart/woocommerce.py", line 4273, in order_import
+    '_line_total': product['products_price'],
+TypeError: list indices must be integers or slices, not str
+
+2021/01/27 16:08:34 : orders_errors 6: Traceback (most recent call last):
+  File "/opt/lampp/htdocs/v32/cartmigration/controllers/migration.py", line 1072, in migration
+    import_data = fn_import(convert_data, main, ext)
+  File "/opt/lampp/htdocs/v32/cartmigration/models/cart/woocommerce.py", line 4273, in order_import
+    '_line_total': product['products_price'],
+TypeError: list indices must be integers or slices, not str
+
+2021/01/27 16:08:36 : orders_errors 7: Traceback (most recent call last):
+  File "/opt/lampp/htdocs/v32/cartmigration/controllers/migration.py", line 1072, in migration
+    import_data = fn_import(convert_data, main, ext)
+  File "/opt/lampp/htdocs/v32/cartmigration/models/cart/woocommerce.py", line 4273, in order_import
+    '_line_total': product['products_price'],
+TypeError: list indices must be integers or slices, not str
+
+2021/01/27 16:08:38 : orders_errors 8: Traceback (most recent call last):
+  File "/opt/lampp/htdocs/v32/cartmigration/controllers/migration.py", line 1072, in migration
+    import_data = fn_import(convert_data, main, ext)
+  File "/opt/lampp/htdocs/v32/cartmigration/models/cart/woocommerce.py", line 4273, in order_import
+    '_line_total': product['products_price'],
+TypeError: list indices must be integers or slices, not str
+

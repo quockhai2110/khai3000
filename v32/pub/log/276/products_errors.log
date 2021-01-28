@@ -1,0 +1,140 @@
+2021/01/28 17:16:43 : products_errors 9: Traceback (most recent call last):
+  File "/opt/lampp/htdocs/v32/cartmigration/controllers/migration.py", line 1072, in migration
+    import_data = fn_import(convert_data, main, ext)
+  File "/opt/lampp/htdocs/v32/cartmigration/models/cart/woocommerce.py", line 3430, in product_import
+    self.manufacturer_import()
+TypeError: manufacturer_import() missing 3 required positional arguments: 'convert', 'manufacturer', and 'manufacturers_ext'
+
+2021/01/28 17:16:43 : products_errors 10: Traceback (most recent call last):
+  File "/opt/lampp/htdocs/v32/cartmigration/controllers/migration.py", line 1072, in migration
+    import_data = fn_import(convert_data, main, ext)
+  File "/opt/lampp/htdocs/v32/cartmigration/models/cart/woocommerce.py", line 3430, in product_import
+    self.manufacturer_import()
+TypeError: manufacturer_import() missing 3 required positional arguments: 'convert', 'manufacturer', and 'manufacturers_ext'
+
+2021/01/28 17:16:43 : products_errors 16: Traceback (most recent call last):
+  File "/opt/lampp/htdocs/v32/cartmigration/controllers/migration.py", line 1072, in migration
+    import_data = fn_import(convert_data, main, ext)
+  File "/opt/lampp/htdocs/v32/cartmigration/models/cart/woocommerce.py", line 3430, in product_import
+    self.manufacturer_import()
+TypeError: manufacturer_import() missing 3 required positional arguments: 'convert', 'manufacturer', and 'manufacturers_ext'
+
+2021/01/28 17:16:43 : products_errors 17: Traceback (most recent call last):
+  File "/opt/lampp/htdocs/v32/cartmigration/controllers/migration.py", line 1072, in migration
+    import_data = fn_import(convert_data, main, ext)
+  File "/opt/lampp/htdocs/v32/cartmigration/models/cart/woocommerce.py", line 3430, in product_import
+    self.manufacturer_import()
+TypeError: manufacturer_import() missing 3 required positional arguments: 'convert', 'manufacturer', and 'manufacturers_ext'
+
+2021/01/28 17:16:43 : products_errors 18: Traceback (most recent call last):
+  File "/opt/lampp/htdocs/v32/cartmigration/controllers/migration.py", line 1072, in migration
+    import_data = fn_import(convert_data, main, ext)
+  File "/opt/lampp/htdocs/v32/cartmigration/models/cart/woocommerce.py", line 3430, in product_import
+    self.manufacturer_import()
+TypeError: manufacturer_import() missing 3 required positional arguments: 'convert', 'manufacturer', and 'manufacturers_ext'
+
+2021/01/28 17:16:43 : products_errors 19: Traceback (most recent call last):
+  File "/opt/lampp/htdocs/v32/cartmigration/controllers/migration.py", line 1072, in migration
+    import_data = fn_import(convert_data, main, ext)
+  File "/opt/lampp/htdocs/v32/cartmigration/models/cart/woocommerce.py", line 3430, in product_import
+    self.manufacturer_import()
+TypeError: manufacturer_import() missing 3 required positional arguments: 'convert', 'manufacturer', and 'manufacturers_ext'
+
+2021/01/28 17:16:43 : products_errors 20: Traceback (most recent call last):
+  File "/opt/lampp/htdocs/v32/cartmigration/controllers/migration.py", line 1072, in migration
+    import_data = fn_import(convert_data, main, ext)
+  File "/opt/lampp/htdocs/v32/cartmigration/models/cart/woocommerce.py", line 3430, in product_import
+    self.manufacturer_import()
+TypeError: manufacturer_import() missing 3 required positional arguments: 'convert', 'manufacturer', and 'manufacturers_ext'
+
+2021/01/28 17:16:43 : products_errors 22: Traceback (most recent call last):
+  File "/opt/lampp/htdocs/v32/cartmigration/controllers/migration.py", line 1072, in migration
+    import_data = fn_import(convert_data, main, ext)
+  File "/opt/lampp/htdocs/v32/cartmigration/models/cart/woocommerce.py", line 3430, in product_import
+    self.manufacturer_import()
+TypeError: manufacturer_import() missing 3 required positional arguments: 'convert', 'manufacturer', and 'manufacturers_ext'
+
+2021/01/28 17:16:44 : products_errors 23: Traceback (most recent call last):
+  File "/opt/lampp/htdocs/v32/cartmigration/controllers/migration.py", line 1072, in migration
+    import_data = fn_import(convert_data, main, ext)
+  File "/opt/lampp/htdocs/v32/cartmigration/models/cart/woocommerce.py", line 3430, in product_import
+    self.manufacturer_import()
+TypeError: manufacturer_import() missing 3 required positional arguments: 'convert', 'manufacturer', and 'manufacturers_ext'
+
+2021/01/28 17:16:44 : products_errors 24: Traceback (most recent call last):
+  File "/opt/lampp/htdocs/v32/cartmigration/controllers/migration.py", line 1072, in migration
+    import_data = fn_import(convert_data, main, ext)
+  File "/opt/lampp/htdocs/v32/cartmigration/models/cart/woocommerce.py", line 3430, in product_import
+    self.manufacturer_import()
+TypeError: manufacturer_import() missing 3 required positional arguments: 'convert', 'manufacturer', and 'manufacturers_ext'
+
+2021/01/28 17:16:44 : products_errors 25: Traceback (most recent call last):
+  File "/opt/lampp/htdocs/v32/cartmigration/controllers/migration.py", line 1072, in migration
+    import_data = fn_import(convert_data, main, ext)
+  File "/opt/lampp/htdocs/v32/cartmigration/models/cart/woocommerce.py", line 3430, in product_import
+    self.manufacturer_import()
+TypeError: manufacturer_import() missing 3 required positional arguments: 'convert', 'manufacturer', and 'manufacturers_ext'
+
+2021/01/28 17:16:44 : products_errors 37: Traceback (most recent call last):
+  File "/opt/lampp/htdocs/v32/cartmigration/controllers/migration.py", line 1072, in migration
+    import_data = fn_import(convert_data, main, ext)
+  File "/opt/lampp/htdocs/v32/cartmigration/models/cart/woocommerce.py", line 3430, in product_import
+    self.manufacturer_import()
+TypeError: manufacturer_import() missing 3 required positional arguments: 'convert', 'manufacturer', and 'manufacturers_ext'
+
+2021/01/28 17:16:44 : products_errors 39: Traceback (most recent call last):
+  File "/opt/lampp/htdocs/v32/cartmigration/controllers/migration.py", line 1072, in migration
+    import_data = fn_import(convert_data, main, ext)
+  File "/opt/lampp/htdocs/v32/cartmigration/models/cart/woocommerce.py", line 3430, in product_import
+    self.manufacturer_import()
+TypeError: manufacturer_import() missing 3 required positional arguments: 'convert', 'manufacturer', and 'manufacturers_ext'
+
+2021/01/28 17:16:44 : products_errors 41: Traceback (most recent call last):
+  File "/opt/lampp/htdocs/v32/cartmigration/controllers/migration.py", line 1072, in migration
+    import_data = fn_import(convert_data, main, ext)
+  File "/opt/lampp/htdocs/v32/cartmigration/models/cart/woocommerce.py", line 3430, in product_import
+    self.manufacturer_import()
+TypeError: manufacturer_import() missing 3 required positional arguments: 'convert', 'manufacturer', and 'manufacturers_ext'
+
+2021/01/28 17:16:44 : products_errors 42: Traceback (most recent call last):
+  File "/opt/lampp/htdocs/v32/cartmigration/controllers/migration.py", line 1072, in migration
+    import_data = fn_import(convert_data, main, ext)
+  File "/opt/lampp/htdocs/v32/cartmigration/models/cart/woocommerce.py", line 3430, in product_import
+    self.manufacturer_import()
+TypeError: manufacturer_import() missing 3 required positional arguments: 'convert', 'manufacturer', and 'manufacturers_ext'
+
+2021/01/28 17:16:44 : products_errors 43: Traceback (most recent call last):
+  File "/opt/lampp/htdocs/v32/cartmigration/controllers/migration.py", line 1072, in migration
+    import_data = fn_import(convert_data, main, ext)
+  File "/opt/lampp/htdocs/v32/cartmigration/models/cart/woocommerce.py", line 3430, in product_import
+    self.manufacturer_import()
+TypeError: manufacturer_import() missing 3 required positional arguments: 'convert', 'manufacturer', and 'manufacturers_ext'
+
+2021/01/28 17:16:45 : products_errors 44: Traceback (most recent call last):
+  File "/opt/lampp/htdocs/v32/cartmigration/controllers/migration.py", line 1072, in migration
+    import_data = fn_import(convert_data, main, ext)
+  File "/opt/lampp/htdocs/v32/cartmigration/models/cart/woocommerce.py", line 3430, in product_import
+    self.manufacturer_import()
+TypeError: manufacturer_import() missing 3 required positional arguments: 'convert', 'manufacturer', and 'manufacturers_ext'
+
+2021/01/28 17:16:45 : products_errors 47: Traceback (most recent call last):
+  File "/opt/lampp/htdocs/v32/cartmigration/controllers/migration.py", line 1072, in migration
+    import_data = fn_import(convert_data, main, ext)
+  File "/opt/lampp/htdocs/v32/cartmigration/models/cart/woocommerce.py", line 3430, in product_import
+    self.manufacturer_import()
+TypeError: manufacturer_import() missing 3 required positional arguments: 'convert', 'manufacturer', and 'manufacturers_ext'
+
+2021/01/28 17:16:45 : products_errors 48: Traceback (most recent call last):
+  File "/opt/lampp/htdocs/v32/cartmigration/controllers/migration.py", line 1072, in migration
+    import_data = fn_import(convert_data, main, ext)
+  File "/opt/lampp/htdocs/v32/cartmigration/models/cart/woocommerce.py", line 3430, in product_import
+    self.manufacturer_import()
+TypeError: manufacturer_import() missing 3 required positional arguments: 'convert', 'manufacturer', and 'manufacturers_ext'
+
+2021/01/28 17:16:45 : products_errors 49: Traceback (most recent call last):
+  File "/opt/lampp/htdocs/v32/cartmigration/controllers/migration.py", line 1072, in migration
+    import_data = fn_import(convert_data, main, ext)
+  File "/opt/lampp/htdocs/v32/cartmigration/models/cart/woocommerce.py", line 3430, in product_import
+    self.manufacturer_import()
+TypeError: manufacturer_import() missing 3 required positional arguments: 'convert', 'manufacturer', and 'manufacturers_ext'
+

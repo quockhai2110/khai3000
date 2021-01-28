@@ -1,0 +1,56 @@
+2021/01/27 16:14:24 : orders_errors 1: Traceback (most recent call last):
+  File "/opt/lampp/htdocs/v32/cartmigration/controllers/migration.py", line 1072, in migration
+    import_data = fn_import(convert_data, main, ext)
+  File "/opt/lampp/htdocs/v32/cartmigration/models/cart/woocommerce.py", line 4275, in order_import
+    for key, value in woocommerceorderitemmeta_metakey_data:
+ValueError: too many values to unpack (expected 2)
+
+2021/01/27 16:14:26 : orders_errors 2: Traceback (most recent call last):
+  File "/opt/lampp/htdocs/v32/cartmigration/controllers/migration.py", line 1072, in migration
+    import_data = fn_import(convert_data, main, ext)
+  File "/opt/lampp/htdocs/v32/cartmigration/models/cart/woocommerce.py", line 4275, in order_import
+    for key, value in woocommerceorderitemmeta_metakey_data:
+ValueError: too many values to unpack (expected 2)
+
+2021/01/27 16:14:28 : orders_errors 3: Traceback (most recent call last):
+  File "/opt/lampp/htdocs/v32/cartmigration/controllers/migration.py", line 1072, in migration
+    import_data = fn_import(convert_data, main, ext)
+  File "/opt/lampp/htdocs/v32/cartmigration/models/cart/woocommerce.py", line 4275, in order_import
+    for key, value in woocommerceorderitemmeta_metakey_data:
+ValueError: too many values to unpack (expected 2)
+
+2021/01/27 16:14:30 : orders_errors 4: Traceback (most recent call last):
+  File "/opt/lampp/htdocs/v32/cartmigration/controllers/migration.py", line 1072, in migration
+    import_data = fn_import(convert_data, main, ext)
+  File "/opt/lampp/htdocs/v32/cartmigration/models/cart/woocommerce.py", line 4275, in order_import
+    for key, value in woocommerceorderitemmeta_metakey_data:
+ValueError: too many values to unpack (expected 2)
+
+2021/01/27 16:14:33 : orders_errors 5: Traceback (most recent call last):
+  File "/opt/lampp/htdocs/v32/cartmigration/controllers/migration.py", line 1072, in migration
+    import_data = fn_import(convert_data, main, ext)
+  File "/opt/lampp/htdocs/v32/cartmigration/models/cart/woocommerce.py", line 4275, in order_import
+    for key, value in woocommerceorderitemmeta_metakey_data:
+ValueError: too many values to unpack (expected 2)
+
+2021/01/27 16:14:34 : orders_errors 6: Traceback (most recent call last):
+  File "/opt/lampp/htdocs/v32/cartmigration/controllers/migration.py", line 1072, in migration
+    import_data = fn_import(convert_data, main, ext)
+  File "/opt/lampp/htdocs/v32/cartmigration/models/cart/woocommerce.py", line 4275, in order_import
+    for key, value in woocommerceorderitemmeta_metakey_data:
+ValueError: too many values to unpack (expected 2)
+
+2021/01/27 16:14:36 : orders_errors 7: Traceback (most recent call last):
+  File "/opt/lampp/htdocs/v32/cartmigration/controllers/migration.py", line 1072, in migration
+    import_data = fn_import(convert_data, main, ext)
+  File "/opt/lampp/htdocs/v32/cartmigration/models/cart/woocommerce.py", line 4275, in order_import
+    for key, value in woocommerceorderitemmeta_metakey_data:
+ValueError: too many values to unpack (expected 2)
+
+2021/01/27 16:14:38 : orders_errors 8: Traceback (most recent call last):
+  File "/opt/lampp/htdocs/v32/cartmigration/controllers/migration.py", line 1072, in migration
+    import_data = fn_import(convert_data, main, ext)
+  File "/opt/lampp/htdocs/v32/cartmigration/models/cart/woocommerce.py", line 4275, in order_import
+    for key, value in woocommerceorderitemmeta_metakey_data:
+ValueError: too many values to unpack (expected 2)
+
